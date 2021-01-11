@@ -1,0 +1,2 @@
+# FinanceAI
+Finance AI ($FAI)
