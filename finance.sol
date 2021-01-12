@@ -5,8 +5,8 @@ that aims to grow and optimize users' monetary value
 with compounding interest by leveraging on blockchain 
 technology, decentralized oracles, deFi, DAO and many more
 
-Website:
-Telegram:
+Website: finance-ai.org
+Telegram: t.me/financeAI
 
 */
 
